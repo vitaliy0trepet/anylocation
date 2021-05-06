@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'Axis';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Axis'), url('axis/axis.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Evolventa';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Evolventa Regular'), url('evolventa/Evolventa-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Evolventa';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Evolventa Bold'), url('evolventa/Evolventa-Bold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-style: normal;
+	src: url('montserrat/Montserrat-Regular.woff2') format('woff2'),
+		url('montserrat/Montserrat-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-style: normal;
+	src: url('montserrat/Montserrat-Bold.woff2') format('woff2'),
+		url('montserrat/Montserrat-Bold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Elowen';
+	src: local('Elowen Regular'), local('Elowen-Regular'),
+		url('elowen/Elowen.woff2') format('woff2'),
+		url('elowen/Elowen.woff') format('woff'),
+		url('elowen/Elowen.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
