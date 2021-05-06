@@ -864,11 +864,11 @@
         color: #fff;
     }
 
-    .shopping-cart a {
+    .sub-page .shopping-cart a {
         color: #fff;
     }
 
-    .shopping-cart::after {
+    .sub-page .shopping-cart::after {
         background-color: #fff;
     }
 
